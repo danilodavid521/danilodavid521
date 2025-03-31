@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,  <a href="521-danilodavids-projects.vercel.app" target="blank">Danilo</a> here...</h1> 
+<h1 align="center">Hi 👋,  <a href="521-danilodavids-projects.vercel.app" target="_blank">Danilo</a> here...</h1> 
 <h3 align="center">A Passionate Developer</h3>  
   
 <!-- Social Media Handles -->
