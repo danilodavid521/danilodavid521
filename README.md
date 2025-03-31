@@ -31,7 +31,7 @@
   ![Harsh GitHub stats](https://github-readme-stats.vercel.app/api?username=hashfx&count_private=true&title_color=39FF14&show_icons=true&icon_color=ADD8E6&theme=dracula&include_all_commits=true&hide_rank=false&custom_title=@hashfx-Github-stats&rank_icon=percentile)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hashfx&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hashfx&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)]
 
 
 
